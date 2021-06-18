@@ -1,4 +1,4 @@
-rofi_command="rofi -theme $HOME/.config/rofi/network.rasi"
+rofi_command="rofi -theme $HOME/.config/rofi/themes/network.rasi"
 
 IFACE="$(nmcli | grep -i interface | awk '/interface/ {print $2}')"
 STATUS="$(nmcli radio wifi)"

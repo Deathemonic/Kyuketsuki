@@ -1,7 +1,7 @@
 # terminal emulator
 super + Return
-	alacritty
-# LIBGL_ALWAYS_SOFTWARE=1 alacritty
+# alacritty
+	LIBGL_ALWAYS_SOFTWARE=1 alacritty
 
 # program launcher
 super + @space
