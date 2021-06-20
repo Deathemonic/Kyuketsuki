@@ -29,7 +29,9 @@
 * [**Troubleshoot**](#troubleshoot)
 
 # About 
-Dracula Themed BSPWM (WIP)
+Dracula Themed BSPWM
+
+
 
 # Preview
 ![cheese](https://user-images.githubusercontent.com/65948476/122667551-f26edd80-d1e5-11eb-9cd9-67790306f38a.png)
