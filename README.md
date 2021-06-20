@@ -7,6 +7,7 @@
 # Table of Contents
 
 * [**About**](#about)
+* [**Preview**](#preview)
 * [**Requirements**](#requirements)
 * [**Installation**](#installation)
 	- [**Cloning**](##first-of-all-clone-this-repo)
@@ -29,6 +30,12 @@
 
 # About 
 Dracula Themed BSPWM (WIP)
+
+# Preview
+![cheese](https://user-images.githubusercontent.com/65948476/122667551-f26edd80-d1e5-11eb-9cd9-67790306f38a.png)
+![nice](https://user-images.githubusercontent.com/65948476/122667559-fb5faf00-d1e5-11eb-902f-53db739f8cae.png)
+![rice](https://user-images.githubusercontent.com/65948476/122667562-fbf84580-d1e5-11eb-95db-018c04f5bfe9.png)
+
 
 # Requirements
 
@@ -191,6 +198,9 @@ Note that ``LIBGL_ALWAYS_SOFTWARE=1 alacritty`` is only for pc or laptop that do
 
 No spotify theme? go to this [github](https://github.com/mattchrlw/dracula-for-spotify) clone it
 
-Install [spicetify-cli](https://github.com/khanhas/spicetify-cli) and then copy the folder to the spicetify theme folder and do a ``spicetify backup apply enable-devtool``
+Install [spicetify-cli](https://github.com/khanhas/spicetify-cli) and then copy the folder to the spicetify theme folder and type
+```sh
+spicetify backup apply enable-devtool
+```
 
 How about spotify-tui? go to this [link](https://draculatheme.com/spotify-tui) and follow the instructions
