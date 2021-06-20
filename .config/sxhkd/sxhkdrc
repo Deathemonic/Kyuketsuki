@@ -25,7 +25,7 @@ super + e
 
 # dmenu
 super + d
-	dmenu_run
+	dmenu_run -c -g 1 -L 5 -p Run:
 
 # quit/restart bspwm
 super + alt + {q,r}

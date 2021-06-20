@@ -12,7 +12,7 @@ i3lock \
 --bar-indicator \
 --bar-pos y+h \
 --bar-direction 1 \
---bar-max-height 50 \
+--bar-max-height 25 \
 --bar-base-width 50 \
 --bar-color 44475a \
 --keyhl-color 8be9fd \
