@@ -179,11 +179,6 @@ search for [dracula](https://midnight-lizard.org/schemes/index/full/?q=dracula&s
 The configs doesn't work, maybe you forgot to [``chmod``](##easy-way).
 
 Lag? Try change the picom corner radius to ``0.0``
-```sh
-vim ~/.config/picom.conf
-```
-Go to line 60 or search corner-radius (/corner-radius)
-and then change 15.0 to 0.0
 
 Still lagging? Bruh maybe it's the time for a upgrade
 try comment of the blur effects.
@@ -195,12 +190,3 @@ vim ~/.config/sxhkd/sxhkdrc
 ```
 by default it's ``LIBGL_ALWAYS_SOFTWARE=1 alacritty`` comment it and uncomment ``alacritty``
 Note that ``LIBGL_ALWAYS_SOFTWARE=1 alacritty`` is only for pc or laptop that doesn't have a GPU or your GPU doesn't support ``OPENGL 3.3``
-
-No spotify theme? go to this [github](https://github.com/mattchrlw/dracula-for-spotify) clone it
-
-Install [spicetify-cli](https://github.com/khanhas/spicetify-cli) and then copy the folder to the spicetify theme folder and type
-```sh
-spicetify backup apply enable-devtool
-```
-
-How about spotify-tui? go to this [link](https://draculatheme.com/spotify-tui) and follow the instructions
