@@ -69,7 +69,7 @@ First Install the necessary packages by clicking the names in the [requirements]
 ## First of all clone this repo
 ```sh
 mkdir ~/.dotfiles
-git clone https://github.com/D34TH-Code/Kyuketsuki.git
+git clone https://github.com/Deathemonic/Kyuketsuki.git
 cd Kyuketsuki
 cd .config
 ```
