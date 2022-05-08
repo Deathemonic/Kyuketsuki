@@ -141,7 +141,7 @@ cp -r alacritty ~/.config
 ```sh
 nvim
 ```
-and then type ``:PlugStatus`` next type ``:PlugInstal``
+and then type ``:PlugStatus`` next type ``:PlugInstall``
 
 ### dwall
 After you follow dwall install instructions in https://github.com/adi1090x/dynamic-wallpaper github you need to vim to your ``bspwmrc``
