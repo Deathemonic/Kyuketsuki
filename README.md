@@ -1,4 +1,5 @@
-<h1 align="center">きゅうけつき</h1>
+<h1 align="center">きゅうけつき (Unmaintained)</h1>
+<p align="center">This dotfiles is unmaintained due to I don't got the time or simply I got many projects to do but you can still send a pull request and I will guarantee I will review it</p>
 <p align="center">
   <img src="https://img.shields.io/github/issues/D34TH-Code/Kyuketsuki?style=for-the-badge"
 </p>
