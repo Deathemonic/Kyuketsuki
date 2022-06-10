@@ -1,4 +1,4 @@
-<h1 align="center">きゅうけつき</h1>
+<h1 align="center">きゅうけつき (Read Only)</h1>
 <p align="center">
   <img src="https://img.shields.io/github/issues/D34TH-Code/Kyuketsuki?style=for-the-badge"
 </p>
